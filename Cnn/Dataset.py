@@ -1,6 +1,5 @@
 # -*- coding:utf-8 -*-
-# Author:Nicky
-
+# Author:Nick/*
 import struct
 
 import matplotlib.pyplot as plt
